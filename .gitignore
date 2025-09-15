@@ -1,0 +1,29 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Flask & Python logs
+instance/
+*.log
+
+# Environment variables
+.env
+*.env
+
+# PyCharm settings
+.idea/
+
+# Node.js dependencies (if applicable)
+node_modules/
+
+# Compiled files & cache
+*.egg-info/
+*.pytest_cache/
+cache/
+/files
