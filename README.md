@@ -17,9 +17,3 @@ Backend system for a corporate internal portal with IP-based authentication. Pro
 - WebSocket for news updates
 - SQLAlchemy for database access
 - REST API endpoints
-
-## Installation
-1. Clone the repository:
-```bash
-git clone https://github.com/<username>/internal-corp-portal.git
-cd internal-corp-portal
